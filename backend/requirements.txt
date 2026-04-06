@@ -3,5 +3,6 @@ uvicorn[standard]
 sqlalchemy
 pandas
 openpyxl
+xlrd
 python-multipart
 python-dateutil
